@@ -6,7 +6,7 @@
 
 *Submission deadline*: 2021-05-18
 
-# NOTE: I collaborated on this project with a team member in a private repo set up by the professor. I've copied the files here after the project was complete.
+## NOTE: I collaborated on this project with a teammate in a private repo set up by the professor. I've copied the files here after the project was complete.
 
 # Overview
 
